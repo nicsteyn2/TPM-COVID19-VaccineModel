@@ -9,4 +9,4 @@ The first implementation is a deterministic SEIR-style model (see `runSEIR.m`). 
 Default parameters are included in `getPar.m`. Simple examples are provided in `example.m`. Code to reproduce the results from the paper is found in `resultsSEIR.m` and `resultsBranching.m`.
 
 For more details:
-> [Steyn. N., Plank. M.J., Binny. R.N., Hendy. S.C., Lustig. A., Ridings. K. A COVID-19 Vaccination Model for Aotearoa New Zealand. *Under review*. (2021).](https://www.tepunahamatatini.ac.nz/2021/06/30/a-covid-19-vaccination-model-for-aotearoa-new-zealand/)
+> [Steyn. N., Plank. M.J., Binny. R.N., Hendy. S.C., Lustig. A., Ridings. K. A COVID-19 Vaccination Model for Aotearoa New Zealand. Scientific Reports. (2022).](https://www.tepunahamatatini.ac.nz/2021/06/30/a-covid-19-vaccination-model-for-aotearoa-new-zealand/)
